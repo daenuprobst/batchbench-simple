@@ -1,5 +1,6 @@
 .git
+.venv
 __pycache__
-training
-training_data
 *.pyc
+data
+feats

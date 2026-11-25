@@ -1,5 +1,0 @@
-defaults:
-  - resnet18
-  - _self_
-
-_target_: training.methods.arm_bn.ARMBN
