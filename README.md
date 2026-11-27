@@ -1,5 +1,7 @@
 # batchbench-simple
 
+[![DOI](https://zenodo.org/badge/github/1472243209.svg)](https://doi.org/10.5281/zenodo.24593446)
+
 A submission for the [BatchBench challenge](https://huggingface.co/spaces/ai-lab-jku/jumpcp-challenge) that uses no neural network. It computes classic image features, normalises them per plate, and classifies with LDA and gradient boosting. It runs on CPU.
 
 Forked from [ml-jku/batchbench-baselines](https://github.com/ml-jku/batchbench-baselines) for the submission interface. The baseline code is removed.
